@@ -58,7 +58,7 @@ apt-get install python3 -y
 apt-get install python2 -y
 apt-get install python3-pip -y
 apt-get íntall curl -y
-curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -;sudo apt -y install nodejs
+curl -sL https://deb.nodesource.com/setup_16.x | -E bash -;apt -y install nodejs
 
 How to use: 
 - Recommended in shell of google, azure,...
